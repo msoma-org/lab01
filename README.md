@@ -1,4 +1,11 @@
-# Part A - Terminal Commands
+# Part A - Account Creation
+
+
+## 0: Creating a GitHub account
+
+Go to [github.com](https://github.com/) and create an account. After you have verified your email, create an empty repository in your new account, and name it **bootcamp**
+
+# Part B - Terminal Commands
   
 
 ## 1: Our first command
@@ -35,8 +42,12 @@ Create an empty file called file01 in the lab directory.
 
 What is the command used to remove a directory named **food** and everything inside it. 
 
-# Part B - Github 
+# Part C - Github 
 
 ## 8: Download the GitHub desktop application
 
 Download the [GitHub desktop application](https://desktop.github.com/).
+
+## 9: Pushing work to GitHub
+
+Using the GitHub desktop application, push your code to your new repository.
